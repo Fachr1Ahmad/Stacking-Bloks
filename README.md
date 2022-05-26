@@ -7,7 +7,9 @@ A. Nama Anggota Kelompok
 6. Nabilla Putri Maharani 120140177
 
 B. Judul Program       : Games Stacking Bloks
-C. Deskripsi Program   : Stacking Bloks merupakan aplikasi game yang mana berupa permainan menyusun                          balok. Kita dituntut untuk menyusun balok yang mana balok akan habis                                ketika terpenuhi satu baris. Stacking Bloks dijalankan dengan bahasa                                pemrograman python yang mana untuk menjalankannya kita menggunakan library                          py.game. Py.game sendiri merupakan sebuah modul gratis yang digunakan                              dalam pengembangan sebuah game menggunakan bahasa python.
 
-D. Cara menjalankan kontainer
+
+C. Deskripsi Program   : Stacking Bloks merupakan aplikasi game yang mana berupa permainan menyusun balok. Kita dituntut untuk menyusun balok yang mana balok akan habis  ketika terpenuhi satu baris. Stacking Bloks dijalankan dengan bahasa pemrograman python yang mana untuk menjalankannya kita menggunakan library                          py.game. Py.game sendiri merupakan sebuah modul gratis yang digunakan  dalam pengembangan sebuah game menggunakan bahasa python.
+
+D. Cara menjalankan kontainer :
 
