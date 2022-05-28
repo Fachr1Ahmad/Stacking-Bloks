@@ -28,9 +28,10 @@ docker build -t main
 ```
 3. Sambil menunggu build selesai, selanjutnya setup VcXsrv (X Launcher). Buka aplikasi XLauncher yang sudah diinstall. Pada window awal pilih Multiple Windows dengan display number -1 > next > Start no client > next > centang disable access control > next > finish. Atau juga dapat dilakukan dengan membuka file konfigurasi Xlauncher yang ada di repository ini yaitu file 'Docker.xlaunch'.
 4. Setelah build Selesai jalankan container dengan perintah:
->"docker run --rm main"
+```
+docker run --rm main
+```
 5. Container sudah berjalan dan game sudah dapat dimainkan
-
 
 # Video Demo Container
 Berikut akan ditampilkan video demo container.
