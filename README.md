@@ -1,4 +1,4 @@
-![logo](https://www.pngmart.com/id/image/184541/png/184540)
+![logo](https://www.pngmart.com/id/image/184561/png/184560)
 
 **A. Nama Anggota Kelompok**
 No | Nama | NIM |
