@@ -1,5 +1,3 @@
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
-
 **A. Nama Anggota Kelompok**
 No | Nama | NIM |
 --- | --- | --- |
