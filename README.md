@@ -1,12 +1,15 @@
+# STACKING BLOKS
+
+
 **A. Nama Anggota Kelompok**
 No | Nama | NIM |
 --- | --- | --- |
-1 | Hizkia H J Naibaho | 118140036 |
-2 | Winda | 120140123 |
-3 | Fachri Ahmad | 120140124 |
-4 | Dodi Sihombing | 120140132 |
-5 | Dandy Arkandhiya Putra | 120140203 |
-6 | Nabilla Putri Maharani | 120140177 |
+1 | Hizkia H J Naibaho      | 118140036 |
+2 | Winda                   | 120140123 |
+3 | Fachri Ahmad            | 120140124 |
+4 | Dodi Sihombing          | 120140132 |
+5 | Dandy Arkandhiya Putra  | 120140203 |
+6 | Nabilla Putri Maharani  | 120140177 |
 
 **B. Judul Program**\
 Games Stacking Bloks
