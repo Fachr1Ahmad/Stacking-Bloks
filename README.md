@@ -1,9 +1,9 @@
-<div align="center">
+
 
 # STACKING BLOKS
 
 
-## **Nama Anggota Kelompok**
+# Nama Anggota Kelompok
 No | Nama | NIM |
 --- | --- | --- |
 1 | Hizkia H J Naibaho      | 118140036 |
@@ -13,10 +13,10 @@ No | Nama | NIM |
 5 | Dandy Arkandhiya Putra  | 120140203 |
 6 | Nabilla Putri Maharani  | 120140177 |
 
-# **Deskripsi Program**
+# Deskripsi Program
 Stacking Bloks merupakan aplikasi game yang mana berupa permainan menyusun balok. Kita dituntut untuk menyusun balok yang mana balok akan habis  ketika terpenuhi satu baris. Stacking Bloks dijalankan dengan bahasa pemrograman python yang mana untuk menjalankannya kita menggunakan library py.game. Py.game sendiri merupakan sebuah modul gratis yang digunakan  dalam pengembangan sebuah game menggunakan bahasa python.
 
-# **Cara menjalankan Cotainer (Windows)**
+# Cara menjalankan Cotainer (Windows)
 Untuk menjalankan container ada beberapa prerequisite: Install 2 software dibawah ini.
 * Docker dekstop ([Download Here](https://docs.docker.com/desktop/windows/install/))
 * VcXsrv Windows X server ([Download Here](https://sourceforge.net/projects/vcxsrv/))
@@ -30,7 +30,6 @@ Untuk menjalankan container ada beberapa prerequisite: Install 2 software dibawa
 5. Container sudah berjalan dan game sudah dapat dimainkan
 \
 \
-# **Video Demo Container**
+# Video Demo Container
 Berikut akan ditampilkan video demo container.
 [![IMAGE ALT TEXT HERE](https://youtu.be/HGl9biwuqDI)
-
