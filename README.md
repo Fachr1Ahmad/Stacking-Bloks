@@ -1,8 +1,9 @@
 <div align="center">
+
 # STACKING BLOKS
 
 
-# **Nama Anggota Kelompok**
+## **Nama Anggota Kelompok**
 No | Nama | NIM |
 --- | --- | --- |
 1 | Hizkia H J Naibaho      | 118140036 |
