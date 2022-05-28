@@ -1,7 +1,4 @@
-
-
 # STACKING BLOKS
-
 
 # Nama Anggota Kelompok
 No | Nama | NIM |
