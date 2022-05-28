@@ -1,4 +1,4 @@
-item 1 **A. Nama Anggota Kelompok**
+**A. Nama Anggota Kelompok**
 No | Nama | NIM |
 --- | --- | --- |
 1 | Hizkia H J Naibaho | 118140036 |
@@ -30,5 +30,5 @@ Untuk menjalankan container ada beberapa prerequisite: Install 2 software dibawa
 \
 **E. Video Demo Container**\
 Berikut akan ditampilkan video demo container.
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](https://youtu.be/HGl9biwuqDI)
 
