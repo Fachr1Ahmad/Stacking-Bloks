@@ -26,5 +26,8 @@ Untuk menjalankan container ada beberapa prerequisite: Install 2 software dibawa
 4. Setelah build Selesai jalankan container dengan perintah:
 >"docker run --rm main"
 5. Container sudah berjalan dan game sudah dapat dimainkan
+\
+**E. Video Demo Container**\
+Berikut akan ditampilkan video demo container.
 
 
