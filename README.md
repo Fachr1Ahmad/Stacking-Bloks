@@ -1,4 +1,4 @@
-![logo](https://www.pngmart.com/id/image/184561/png/184560)
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
 **A. Nama Anggota Kelompok**
 No | Nama | NIM |
