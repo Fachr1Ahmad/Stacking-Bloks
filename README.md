@@ -1,4 +1,4 @@
-[logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngmart.com%2Fid%2Fimage%2F184541&psig=AOvVaw1ydbEv7oPuQiNwFABBZNh5&ust=1653795283024000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPjCkaqhgfgCFQAAAAAdAAAAABAD)
+![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngmart.com%2Fid%2Fimage%2F184541&psig=AOvVaw1ydbEv7oPuQiNwFABBZNh5&ust=1653795283024000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPjCkaqhgfgCFQAAAAAdAAAAABAD](https://www.pngmart.com/id/image/184541/png/184540)
 
 **A. Nama Anggota Kelompok**
 No | Nama | NIM |
