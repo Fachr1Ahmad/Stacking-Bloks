@@ -11,7 +11,7 @@ No | Nama | NIM |
 6 | Nabilla Putri Maharani  | 120140177 |
 
 # Deskripsi Program
-Stacking Bloks merupakan sebuah aplikasi game yang mana berupa permainan dengan cara menyusun balok. Kita dituntut untuk menyusun balok dalam sebuah grid yang mana balok akan habis ketika terpenuhi satu baris. Stacking Bloks dijalankan dengan bahasa pemrograman python yang mana untuk menjalankannya kita menggunakan library py.game. Py.game sendiri merupakan sebuah modul gratis yang digunakan dalam pengembangan sebuah game menggunakan bahasa python.
+Stacking Bloks merupakan sebuah aplikasi game yang mana berupa permainan yang dimainkan dengan cara menyusun balok. Kita dituntut untuk menyusun balok-balok dalam sebuah grid yang mana balok-balok tersebut akan habis atau menghilang ketika satu baris grid terpenuhi. Stacking Bloks dijalankan dengan bahasa pemrograman python yang mana untuk menjalankannya kita menggunakan library py.game. Py.game sendiri merupakan sebuah modul gratis yang digunakan dalam pengembangan sebuah game menggunakan bahasa python.
 
 # Cara menjalankan Cotainer (Windows)
 Untuk menjalankan container ada beberapa prerequisite: Install 2 software dibawah ini.
